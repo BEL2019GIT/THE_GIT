@@ -1,4 +1,4 @@
-# THE_GIT
+# THE GIT
 
 Everything you would possibly not know is here
 
